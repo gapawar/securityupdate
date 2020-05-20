@@ -1,0 +1,19 @@
+<DATA>
+<Month>May 2020</Month>
+<EndWeek>2</EndWeek>
+<EndDay>Wednesday</EndDay>
+<StartWeek>3</StartWeek>
+<StartDay>Friday</StartDay>
+<Windows10_1709_Month>KB4550927</Windows10_1709_Month>
+<Windows10_1809_Month>KB4549949</Windows10_1809_Month>
+<Windows10_1909_Month>KB4549951</Windows10_1909_Month>
+<Windows10_1709>KB4556812</Windows10_1709>
+<Windows10_1809>KB4551853</Windows10_1809>
+<Windows10_1909>KB4556799</Windows10_1909>
+<PolicyID_1709>00023DD0-000007FA-60F8A6B9.1_00</PolicyID_1709>
+<PolicyID_1809>00023DD1-000007FB-60F8A6B9.1_00</PolicyID_1809>
+<PolicyID_1909>00023DD2-000007FC-60F8A6B9.1_00</PolicyID_1909>
+<SourceVersion_1709>1</SourceVersion_1709>
+<SourceVersion_1809>1</SourceVersion_1809>
+<SourceVersion_1909>1</SourceVersion_1909>
+</DATA>
